@@ -61,8 +61,8 @@ Pastikan Anda telah menginstall:
 
 ### 2. Clone Repository
 ```bash
-git clone <repository-url>
-cd finalproject
+git clone https://github.com/kkafi09/FinalProject_DataWrangling
+cd FinalProject_DataWrangling
 ```
 
 ### 3. Setup Environment
